@@ -2,6 +2,9 @@
 
 ## Substance Designer
 
+![labPBR Preview Substance 3D Designer filter example](https://github.com/jasonjgardner/substance3d_minecraft/assets/1903667/cd236b2b-580a-477d-8f2b-bc562fc173e2)
+
+
 ### Specular Texture Parameters
 
 #### f0
@@ -52,6 +55,9 @@ generate AO from the material's height. Selecting this option will reveal
 settings to manage AO spreading and levels.
 
 ## Substance Painter
+
+![labPBR Preview Substance 3D Painter filter example](https://github.com/jasonjgardner/substance3d_minecraft/assets/1903667/d5578fc7-7519-4e9f-98d3-c184812ee7e8)
+
 
 ### Previewing labPBR Textures
 

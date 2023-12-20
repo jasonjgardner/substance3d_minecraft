@@ -17,3 +17,8 @@ This package uses
 [f0 presets](https://github.com/Luke-Marchant/labpbr-substance-tools/blob/main/labpbr_f0_presets/labpbr_f0_presets.sbs "Download presets package")
 from
 **[Luke-Marchant/labpbr-substance-tools](https://github.com/Luke-Marchant/labpbr-substance-tools/ "View the GitHub repository ❤️")**
+
+## [`.texture_set.json` Painter Plugin](https://github.com/jasonjgardner/painter-plugin-texture-set-json)
+![Texture Set JSON Plugin screenshot](https://user-images.githubusercontent.com/1903667/151483200-abeb0b9a-8c5f-4acc-a41b-6e1a2f28b9fc.png)
+
+Substance 3D Painter plugin to create Minecraft texture set JSON files directly in Substance 3D Painter.
